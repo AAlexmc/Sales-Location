@@ -49,13 +49,17 @@ Click on the analyze button, and the page will display the results of the analys
 
 I hope this helps! 😊
 
-##Visualization of the web page and analysis results
+## Visualization of the web page and analysis results
+
+When you run Sales-Location.py, it should redirect you to a page like this
+
 
 ![image](https://github.com/user-attachments/assets/6aef7942-48b8-4b11-a70d-e754d392d898)
 
 
+The results should look like these
 
-Results:
+
 ![image](https://github.com/user-attachments/assets/7b0519eb-1fef-4985-9bd6-5a699d6a2684)
 
 
