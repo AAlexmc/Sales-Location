@@ -33,8 +33,7 @@ Unzip the Sales-Location.zip file. Inside, you will find two Python scripts (Sal
 
 Step 3: Generate the Database
 
-First, run the DataBaseGenerator.py script to create the database. This script will generate purchase histories for 200 individuals over 6 years for each of the 4 communities. Once the .csv file is generated, save it.
-
+First, run the DataBaseGenerator.py script to create the database or use the pre-generated DataBase.csv. This script will generate purchase histories for 100 individuals over 6 years for each of the 4 communities. Once the .csv file is generated, save it.
 Step 4: Run the Sales-Location Script
 
 Next, execute the Sales-Location.py script. This will open a web browser and redirect you to an HTML page. Follow these steps:
