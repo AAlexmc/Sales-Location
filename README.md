@@ -42,8 +42,11 @@ Step 4: Run the Sales-Location Script
 Next, execute the Sales-Location.py script. This will open a web browser and redirect you to an HTML page. Follow these steps:
 
 Upload the CSV File: Select the .csv file you generated earlier (e.g., X.csv, where X is the name you gave to your database).
+
 Analyze the Data:
+
 Select the product you want to analyze from the available options.
+
 Click on the analyze button, and the page will display the results of the analysis.
 
 I hope this helps! 😊
