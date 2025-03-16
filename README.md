@@ -49,6 +49,16 @@ Click on the analyze button, and the page will display the results of the analys
 
 I hope this helps! 😊
 
+##Visualization of the web page and analysis results
+
+![image](https://github.com/user-attachments/assets/6aef7942-48b8-4b11-a70d-e754d392d898)
+
+
+
+Results:
+![image](https://github.com/user-attachments/assets/7b0519eb-1fef-4985-9bd6-5a699d6a2684)
+
+
 ## Data sources and AI methods
 The data comes from CSV files uploaded by the user, containing historical purchase data. The machine learning model used is a RandomForestClassifier from the Scikit-learn library. The model is trained to predict the most purchased product based on features such as total purchases and purchase frequency.
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
