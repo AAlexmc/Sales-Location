@@ -19,9 +19,10 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Instructions for Running the Sales-Location Project´
+Instructions for Running the Sales-Location Project
 
 Step 1: Install Required Libraries
+
 Open your terminal and execute the following command to install the necessary libraries:
 
 
