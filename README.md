@@ -25,9 +25,9 @@ Step 1: Install Required Libraries
 
 Open your terminal and execute the following command to install the necessary libraries:
 
-
+´´´
 pip install pandas plotly Flask scikit-learn
-
+´´´´
 
 Step 2: Unzip the Project Files
 
