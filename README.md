@@ -29,12 +29,15 @@ pip install pandas plotly Flask scikit-learn
 
 
 Step 2: Unzip the Project Files
+
 Unzip the Sales-Location.zip file. Inside, you will find two Python scripts (Sales-Location.py and DataBaseGenerator.py) and a folder named templates containing HTML files.
 
 Step 3: Generate the Database
+
 First, run the DataBaseGenerator.py script to create the database. This script will generate purchase histories for 200 individuals over 6 years for each of the 4 communities. Once the .csv file is generated, save it.
 
 Step 4: Run the Sales-Location Script
+
 Next, execute the Sales-Location.py script. This will open a web browser and redirect you to an HTML page. Follow these steps:
 
 Upload the CSV File: Select the .csv file you generated earlier (e.g., X.csv, where X is the name you gave to your database).
