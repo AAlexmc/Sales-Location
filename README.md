@@ -31,7 +31,8 @@ pip install pandas plotly Flask scikit-learn
 
 Step 2: Unzip the Project Files
 
-Unzip the Sales-Location.zip file. Inside, you will find two Python scripts (Sales-Location.py and DataBaseGenerator.py) and a folder named templates containing HTML files.
+Unzip the Sales-Location.zip file. Inside, you will find two Python scripts (Sales-Location.py and DataBaseGenerator.py), a pre-generated database file named DataBase.csv created with the DataBaseGenerator.py program, and a folder named templates containing HTML files.
+
 
 Step 3: Generate the Database
 
